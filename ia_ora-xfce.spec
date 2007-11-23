@@ -10,7 +10,7 @@ BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Requires:       ia_ora-gnome-gtk2-engine
 
 %description
-Mandriva Ia Ora Xfce theme
+This is the Mandriva Ia Ora theme for the Xfce desktop.
 
 %prep
 %setup -q -n Ia\ Ora

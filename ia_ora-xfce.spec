@@ -1,6 +1,6 @@
 Summary:        Ia Ora Mandriva Xfce theme
 Name:           ia_ora-xfce
-Version:        1.0.0
+Version:        1.0.1
 Release:        %mkrel 1
 License:        GPL
 Group:          Graphical desktop/Xfce

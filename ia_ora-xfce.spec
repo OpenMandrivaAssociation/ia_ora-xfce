@@ -6,6 +6,7 @@ License:        GPL
 Group:          Graphical desktop/Xfce
 URL:            http://www.mandrivalinux.com/
 Source0:        %{name}-%{version}.tar.bz2
+BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Requires:       ia_ora-gnome-gtk2-engine
 
 %description

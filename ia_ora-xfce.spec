@@ -4,7 +4,7 @@ Version:	1.0.2
 Release:	10
 License:	GPLv2+
 Group:		Graphical desktop/Xfce
-URL:		http://www.mandrivalinux.com/
+URL:		https://www.mandrivalinux.com/
 Source0:	%{name}-%{version}.tar.bz2
 Requires:	ia_ora-gnome-gtk2-engine
 Requires:	ia_ora-gnome
